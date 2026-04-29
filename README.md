@@ -146,9 +146,3 @@ Do not use on systems or networks without explicit written permission.
 The author is not responsible for any misuse of these tools.
 
 ---
-
-## Related Projects
-
-- [soc-sentinel-home-lab](https://github.com/ramakrishna-j466/soc-sentinel-home-lab) — Microsoft Sentinel SIEM with KQL detection rules and SOAR playbooks
-- [kql-detection-library](https://github.com/ramakrishna-j466/kql-detection-library) — 15+ KQL queries mapped to MITRE ATT&CK
-- [active-directory-security-lab](https://github.com/ramakrishna-j466/active-directory-security-lab) — AD hardening and IAM security scripts
