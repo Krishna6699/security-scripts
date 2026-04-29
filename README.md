@@ -9,7 +9,7 @@ A collection of Python, PowerShell, and Bash scripts built for security operatio
 **Rama Krishna Jujjuri**  
 M.S. Cybersecurity & Networks — University of New Haven (2025)  
 CompTIA Security+ | SC-200 (In Progress)  
-[LinkedIn](https://linkedin.com/in/rama-krishna-jujjuri) | [GitHub](https://github.com/ramakrishna-j466)
+[LinkedIn](https://linkedin.com/in/rama-krishna-jujjuri) | [GitHub](https://github.com/Krishna6699)
 
 ---
 
